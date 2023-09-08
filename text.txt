@@ -8,3 +8,4 @@ Thành viên:
 Quản lý admincp 
 tai khoan :admin
 matkhau :1 
+hung hoang
